@@ -1,0 +1,9 @@
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\bin\Debug\Aufgabe_5.exe.config
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\bin\Debug\Aufgabe_5.exe
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\bin\Debug\Aufgabe_5.pdb
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\obj\Debug\Aufgabe_5.csprojAssemblyReference.cache
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\obj\Debug\Aufgabe_5.Form1.resources
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\obj\Debug\Aufgabe_5.Properties.Resources.resources
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\obj\Debug\Aufgabe_5.csproj.GenerateResource.cache
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\obj\Debug\Aufgabe_5.exe
+C:\Users\Rene Ludwig\Desktop\Aufgabe_5\Aufgabe_5\obj\Debug\Aufgabe_5.pdb

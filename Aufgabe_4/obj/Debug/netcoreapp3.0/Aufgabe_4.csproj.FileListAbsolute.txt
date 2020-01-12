@@ -1,0 +1,11 @@
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/bin/Debug/netcoreapp3.0/Aufgabe_4
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/bin/Debug/netcoreapp3.0/Aufgabe_4.deps.json
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/bin/Debug/netcoreapp3.0/Aufgabe_4.runtimeconfig.json
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/bin/Debug/netcoreapp3.0/Aufgabe_4.runtimeconfig.dev.json
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/bin/Debug/netcoreapp3.0/Aufgabe_4.dll
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/bin/Debug/netcoreapp3.0/Aufgabe_4.pdb
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/obj/Debug/netcoreapp3.0/Aufgabe_4.csprojAssemblyReference.cache
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/obj/Debug/netcoreapp3.0/Aufgabe_4.AssemblyInfoInputs.cache
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/obj/Debug/netcoreapp3.0/Aufgabe_4.AssemblyInfo.cs
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/obj/Debug/netcoreapp3.0/Aufgabe_4.dll
+/Users/chantalweger/Desktop/Uni/C#/Aufgabe_4/obj/Debug/netcoreapp3.0/Aufgabe_4.pdb
